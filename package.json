@@ -1,0 +1,30 @@
+{
+  "name": "ogu-algorithm",
+  "version": "1.0.0",
+  "description": "algorithm study",
+  "main": "indexOf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/59inu/ogu-algorithm.git"
+  },
+  "keywords": [
+    "study",
+    "algorithm"
+  ],
+  "author": "59inu <59inu.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/59inu/ogu-algorithm/issues"
+  },
+  "homepage": "https://github.com/59inu/ogu-algorithm#readme"
+}
