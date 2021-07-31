@@ -11,11 +11,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/59inu/ogu-algorithm.git"
+    "url": "https://github.com/59inu/ogu-algorithm"
   },
   "keywords": [
     "study",
