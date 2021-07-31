@@ -1,0 +1,2 @@
+# ogu-algorithm
+algorithm study
