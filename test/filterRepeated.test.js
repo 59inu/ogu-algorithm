@@ -1,4 +1,4 @@
-const filterRepeated = require("../algorithm/filterRepeated");
+const filterRepeated = require("../algorithm/002_filterRepeated");
 
 describe("filterRepeated should remove repeated string from input strings", () => {
   test('"good", "time", "good", "time", "student" to "good", "time", "student"', () => {

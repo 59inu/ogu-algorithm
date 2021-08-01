@@ -1,4 +1,4 @@
-const indexOf = require("../algorithm/indexOf");
+const indexOf = require("../algorithm/001_indexOf");
 
 describe("indexOf would return repeative filtered string", () => {
   test("apple to aple", () => {
